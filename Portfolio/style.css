@@ -1,0 +1,65 @@
+.container {
+    margin-top: 4rem;
+    text-align: right;
+  }
+ 
+.Career{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+.intern{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+.certi{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+.achi{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+.edu{
+    border: thick double #32a1ce;
+    margin: 50px 50px 10px 50px;
+    padding: 1em;
+}
+.skill{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+.info{
+    border: thick double #32a1ce;
+    margin: 50px 90px 10px 90px;
+    padding: 1em;
+}
+p{
+    color: black;
+    background-color: white;
+} 
+h1{
+    color: rgb(248, 223, 172);
+} 
+h4 {
+    color: white;
+    text-decoration: underline rgb(71, 71, 71);
+  }
+  h6{
+   color:  rgb(248, 201, 106);
+  } 
+.navbar{
+    background-color: #022036;
+  }
+
+body { 
+    background: url('https://images.unsplash.com/photo-1615120962332-df823e51551a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
